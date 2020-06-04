@@ -1,0 +1,163 @@
+[
+	{
+		"ProductId" : "id_1",
+		"Name" : "Glads MX",
+		"Category" : "Pagado",
+		"SupplierName" : "2015-04-06",
+		"ShortDescription" : "Producto de jugo de mora azul",
+		"Weight" : "5 unidades",
+		"status" : "B",
+		"Price" : 90900,
+		"PictureUrl" : "img/product/HT-1071.jpg"
+	}, {
+		"ProductId" : "id_2",
+		"Name" : "Psimax",
+		"Category" : "Pagado",
+		"SupplierName" : "2015-04-06",
+		"ShortDescription" : "Producto de jugo de sandia",
+		"Weight" : "20 unidades",
+		"status" : "B",
+		"Price" : 399000,
+		"PictureUrl" :"img/product/HT-1073.jpg"
+	}, {
+		"ProductId" : "id_3",
+		"Name" : "Hurricane GX",
+		"Category" : "GC",
+		"SupplierName" : "Ultrasonic United",
+		"ShortDescription" : "Hurricane GX: DDR2 RoHS 512MB Supporting1024MB Clock rate: 550 MHz Memory Clock: 933 MHz, Bus Type: PCI-Express, Memory Type: DDR2 Memory Bus: 64-bit Highlighted Features: DVI Out, TV-In, TV-Out, HDTV",
+		"Weight" : "26 Unidades",
+		"status" : "O",
+		"Price" : 219000,
+		"PictureUrl" :"img/product/HT-1072.jpg"
+	}, {
+		"ProductId" : "id_4",
+		"Name" : "Wework",
+		"Category" : "Pagado",
+		"SupplierName" : "2015-04-07",
+		"ShortDescription" : "Producto de jugo de manzana",
+		"Weight" : "20 unidades",
+		"status" : "B",
+		"Price" : 59000,
+		"PictureUrl" :"img/product/HT-1112.jpg"
+	}, {
+		"ProductId" : "id_5",
+		"Name" : "Monitor Locking Cable",
+		"Category" : "AC",
+		"SupplierName" : "Technocom",
+		"ShortDescription" : "Lock for Monitor",
+		"Weight" : "40",
+		"status" : "D",
+		"Price" : 13.49,
+		"PictureUrl" :"img/product/HT-1111.jpg"
+	}, {
+		"ProductId" : "id_6",
+		"Name" : "HEPA T",
+		"Category" : "Entregado",
+		"SupplierName" : "2015-04-07",
+		"ShortDescription" : "Producto de jugo de mango",
+		"Weight" : "20 unidades",
+		"status" : "A",
+		"Price" : 110000,
+		"PictureUrl" :"img/product/HT-1114.jpg"
+	}, {
+		"ProductId" : "id_7",
+		"Name" : "CDrEMD",
+		"Category" : "Pendiente",
+		"SupplierName" : "2015-04-06",
+		"ShortDescription" : "Producto de jugo de mora verde",
+		"Weight" : "20 unidades",
+		"status" : "O",
+		"Price" : 102900,
+		"PictureUrl" :"img/product/HT-2027.jpg"
+	}, {
+		"ProductId" : "id_8",
+		"Name" : "MK Ind",
+		"Category" : "Pendiente",
+		"SupplierName" : "2015-04-07",
+		"ShortDescription" : "Producto de jugo de banana",
+		"Weight" : "20 unidades",
+		"status" : "O",
+		"Price" : 102500,
+		"PictureUrl" :"img/product/HT-6120.jpg"
+	}, {
+		"ProductId" : "id_9",
+		"Name" : "Deskjet",
+		"Category" : "Pendiente",
+		"SupplierName" : "2015-04-06",
+		"ShortDescription" : "Producto de jugo de lima limón",
+		"Weight" : "20 unidades",
+		"status" : "O",
+		"Price" : 101000,
+		"PictureUrl" :"img/product/HT-1052.jpg"
+	}, {
+		"ProductId" : "id_10",
+		"Name" : "Allaround",
+		"Category" : "Pendiente",
+		"SupplierName" : "2015-04-06",
+		"ShortDescription" : "Producto de jugo de piña",
+		"Weight" : "20 unidades",
+		"status" : "O",
+		"Price" : 84500,
+		"PictureUrl" :"img/product/HT-1040.jpg"
+	}, {
+		"ProductId" : "id_11",
+		"Name" : "Flat",
+		"Category" : "Pendiente",
+		"SupplierName" : "2015-04-06",
+		"ShortDescription" : "Producto de jugo de zanahoria",
+		"Weight" : "20 unidades",
+		"status" : "O",
+		"Price" : 200000,
+		"PictureUrl" :"img/product/HT-1030.jpg"
+	}, {
+		"ProductId" : "id_12",
+		"Name" : "Flat Medium",
+		"Category" : "FS",
+		"SupplierName" : "Very Best Screens",
+		"ShortDescription" : "21 inches Optimum Resolution 1984 x 1488 @ 85Hz, Max resolution 1720 x 1280 @ 75Hz, Dot Pitch: 0.24mm",
+		"Weight" : "1300",
+		"status" : "A",
+		"Price" : 639,
+		"PictureUrl" :"img/product/HT-1032.jpg"
+	}, {
+		"ProductId" : "id_13",
+		"Name" : "Farma",
+		"Category" : "Finalizado",
+		"SupplierName" : "2015-04-03",
+		"ShortDescription" : "Producto de jugo de limón",
+		"Weight" : "20 unidades",
+		"status" : "D",
+		"Price" : 50900,
+		"PictureUrl" :"img/product/HT-1138.jpg"
+	}, {
+		"ProductId" : "id_14",
+		"Name" : "Huge Industries",
+		"Category" : "Finalizado",
+		"SupplierName" : "2015-04-03",
+		"ShortDescription" : "Producto de jugo de melón",
+		"Weight" : "20 unidades",
+		"status" : "D",
+		"Price" : 78900,
+		"PictureUrl" :"img/product/HT-1010.jpg"
+	}, {
+		"ProductId" : "id_15",
+		"Name" : "Very Natural",
+		"Category" : "Entregado",
+		"SupplierName" : "2015-04-06",
+		"ShortDescription" : "Producto de jugo fresa",
+		"Weight" : "20 unidades",
+		"status" : "A",
+		"Price" : 56.49,
+		"PictureUrl" :"img/product/HT-1063.jpg"
+	}, {
+		"ProductId" : "id_16",
+		"Name" : "Alpine",
+		"Category" : "Entregado",
+		"SupplierName" : "2015-04-08",
+		"ShortDescription" : "Producto de jugo de mora",
+		"Weight" : "20 unidades",
+		"status" : "A",
+		"Price" : 89000,
+		"PictureUrl" :"img/product/HT-1064.jpg"
+	}
+]

@@ -1,0 +1,19 @@
+[
+	{
+	"CategoryName" : "Pendiente",
+		"Category" : "Pendiente",
+		"NumberOfProducts" : 5
+	}, {
+		"CategoryName" : "Pagado",
+		"Category" : "Pagado",
+		"NumberOfProducts" : 3
+	}, {
+		"CategoryName" : "Entregado",
+		"Category" : "Entregado",
+		"NumberOfProducts" : 3
+	}, {
+		"CategoryName" : "Finalizado",
+		"Category" : "Finalizado",
+		"NumberOfProducts" : 2
+	}
+]
